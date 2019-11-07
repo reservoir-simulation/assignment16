@@ -16,5 +16,5 @@ Save the exported results to a file `assignment16.txt`.  Copy this file into thi
 If you would like to check to see if your solution is correct, run the following command at the Terminal command line:
 
 ```bash
->nosetests
+>python test.py
 ```
